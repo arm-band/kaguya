@@ -31,7 +31,7 @@
 
 ## License
 
-<a href="https://github.com/arm-band/kaguya/LICENSE">MIT License</a>
+<a href="https://github.com/arm-band/kaguya/blob/master/LICENSE">MIT License</a>
 
 ## Author
 
