@@ -1,0 +1,19 @@
+{
+    "manifest_version": 2,
+    "name": "Kaguya",
+    "description": "永遠と須臾を操る程度の能力を使って、須臾を消し去ります。具体的には、須臾（モーメント）を非表示にします。",
+    "version": "0.1",
+    "browser_action": {
+        "default_icon": {
+            "19": "icon_19.png",
+            "38": "icon_38.png"
+        },
+        "default_title": "Kaguya"
+    },
+    "content_scripts": [
+        {
+            "matches": ["https://twitter.com/*"],
+            "css": ["horai.css"]
+        }
+    ]
+}
