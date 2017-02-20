@@ -23,12 +23,6 @@
 7. フォルダ階層のウインドウが表示されるので、先ほど"kaguya"をダウンロードして展開した場所を選んでください。
 8. 画面のように"Kaguya"が表示され、有効化されればオーケーです。<strong>有効化したままだと危険なので、「デベロッパーズモード」のチェックを外しておきましょう。</strong>あとはTwitterの画面をリロードして、須臾を消ｓ…もとい、「モーメント」タブとはサヨナラしましょう。<br><img src="./docs/explain_6.jpg" width="800" alt="kaguya有効化">
 
-## Disclaimer
-
-- 使用は個人使用の範囲にとどめてください。
-- 使用は自己責任でお願いします。"Kaguya"を使用したことによる一切の不具合・問題・トラブルには責任を持ちません。
-- 無断転載はおやめください。
-
 ## License
 
 <a href="https://github.com/arm-band/kaguya/blob/master/LICENSE">MIT License</a>
