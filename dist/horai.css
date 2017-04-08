@@ -1,3 +1,6 @@
 #global-actions li.moments.js-moments-tab {
 	display: none;
 }
+.promoted-tweet, .DismissibleModule {
+    display: none;
+}
